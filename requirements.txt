@@ -1,0 +1,7 @@
+requests==2.28.1
+openpyxl==3.0.10
+pandas==1.4.3
+python-dotenv==0.20.0
+#pywin32==304
+pendulum==2.1.2
+psycopg2==2.9.3
